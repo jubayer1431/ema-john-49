@@ -1,0 +1,9 @@
+.cart-container {
+  background-color: rgba(253, 155, 0, 0.3);
+
+  &__body {
+    position: sticky;
+    top: 0;
+    padding: 30px;
+  }
+}
